@@ -1,0 +1,180 @@
+/*head*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+#head {
+  height: 750px;
+  background-size: fit !important;
+  max-width: 1535px;
+  margin-right: -20px;
+}
+
+/*NavBar*/
+#nav {
+  padding-top: 10px;
+}
+.bg-light {
+  background-color: white !important;
+}
+
+#fonta {
+  font-family: "Saira Semi Condensed", sans-serif !important;
+}
+
+#fontb {
+  font-family: "Saira Semi Condensed", sans-serif !important;
+}
+
+#fontc {
+  font-family: "Saira Semi Condensed", sans-serif !important;
+}
+
+#b1 {
+  font-family: "Saira Semi Condensed", sans-serif !important;
+  margin-left: 10px;
+}
+
+#navbutton {
+  background-color: #8d51ff;
+}
+
+#navbutton:hover {
+  background-color: #5a2483;
+}
+
+/*TagLine*/
+
+.tagline {
+  margin-top: 140px;
+  padding-left: 70px;
+}
+
+#top {
+  font-family: "Encode Sans", sans-serif;
+  font-weight: 300 !important;
+  font-size: 60px;
+  max-width: 430px;
+}
+
+.change {
+  font-family: "Encode Sans", sans-serif;
+  font-weight: 300 !important;
+  font-size: 50px;
+  max-width: 430px;
+  margin-left: 99px;
+}
+
+.typed-cursor {
+  font-size: 50px;
+}
+
+#buttonhead {
+  margin-top: 10px;
+  margin-left: 155px;
+  background-color: #8d51ff;
+  width: 140px;
+  height: 50px;
+}
+
+#buttonhead:hover {
+  background-color: #5a2483;
+}
+
+/*Footer */
+
+#up {
+  height: 300px;
+  background: #272727;
+  padding-top: 50px;
+}
+
+#low {
+  height: 90px;
+  background: #222021;
+}
+
+.col-lg-3 {
+  padding-left: 30px;
+}
+.footerheading {
+  font-family: "Noto Sans HK", sans-serif;
+  color: white;
+  font-size: 15px;
+}
+
+.footercontentbox {
+  margin-top: 10px;
+  color: #9c9c9c;
+}
+
+.icons {
+  margin-top: 10px;
+}
+
+#info {
+  padding-left: 50px;
+}
+.fab {
+  color: aliceblue;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.fas {
+  color: aliceblue;
+}
+
+.fa-facebook-square:hover {
+  color: #4267b2;
+}
+
+.fa-instagram:hover {
+  color: #e64c5c;
+}
+
+.fa-dribbble-square:hover {
+  color: #ae004f;
+}
+
+.fa-twitter-square:hover {
+  color: #1ab2e8;
+}
+
+.fa-envelope:hover {
+  color: #df0202;
+}
+
+.fa-phone-square:hover {
+  color: #228be6;
+}
+.contacts {
+  margin-top: 10px;
+}
+
+#footer-low {
+  padding-left: 200px;
+  padding-top: 30px;
+  color: #9c9c9c;
+}
+
+#id1 {
+  color: #454545;
+}
+
+#id2 {
+  color: #454545;
+}
+
+#id1:hover {
+  color: red;
+}
+
+#id2:hover {
+  color: brown;
+}
+
+.footercontent:hover {
+  color: white;
+}
