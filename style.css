@@ -191,6 +191,42 @@ html {
   color: black;
 }
 
+/*TESTIMONIAL*/
+
+#testimonial {
+  margin-top: 60px;
+  margin-bottom: 50px;
+}
+
+.testimonialhead {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 30px;
+}
+
+.testimonialcontent {
+  color: #585858;
+  margin-top: 20px;
+}
+
+.testimonialname {
+  margin-top: 20px;
+  font-weight: 400;
+}
+
+.post {
+  color: #fd6a02;
+}
+
+.tpic {
+  height: 340px;
+  max-width: 300px;
+  max-height: 400px;
+  margin-left: 220px;
+}
+
 /*Footer */
 
 #up {
