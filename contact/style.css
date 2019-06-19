@@ -1,0 +1,209 @@
+#head{
+    background-image: url('bgf.png');
+    height: 900px;
+    background-size: cover;
+    
+}
+
+
+
+/*NavBar*/
+#nav {
+    padding-top: 10px;
+    background:inherit !important;
+}
+  
+  #fonta {
+    font-family: "Saira Semi Condensed", sans-serif !important;
+  }
+  
+  #fontb {
+    font-family: "Saira Semi Condensed", sans-serif !important;
+  }
+  
+  #fontc {
+    font-family: "Saira Semi Condensed", sans-serif !important;
+  }
+  
+  #b1 {
+    font-family: "Saira Semi Condensed", sans-serif !important;
+    margin-left: 10px;
+  }
+  
+  #navbutton {
+    background-color: #8d51ff;
+  }
+  
+  #navbutton:hover {
+    background-color: #5a2483;
+  }
+
+  /* HEAD */
+
+  #tag{
+    font-family: 'Encode Sans', sans-serif;
+    padding-top: 180px;
+    text-align: center;
+    font-size: 60px;
+  }
+
+  #tagb{
+    font-family: 'Encode Sans', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  #button{
+      text-align: center;
+
+  }
+
+  hr {
+    border:none;
+    height: 10px;
+    width: 50%;
+    height: 50px;
+    margin-top: 0;
+    border-bottom: 1px solid #808080;
+    box-shadow: 0 20px 20px -20px 	#808080;
+    margin: -50px auto 10px; 
+  }
+
+  #tagc{
+
+    font-family: 'Encode Sans', sans-serif;
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+
+  }
+
+  form{
+      padding-left: 100px;
+      font-family: 'Arimo', sans-serif;
+      font-size: 20px;
+  }
+
+  select{
+
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+  }
+
+  select:active{
+      border: none;
+  }
+
+  input{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: none;
+    
+  }
+
+  input:focus {
+      outline: none;
+    }
+
+    /*Footer */
+
+#up {
+    height: 300px;
+    background: #272727;
+    padding-top: 50px;
+  }
+  
+  #low {
+    height: 90px;
+    background: #222021;
+  }
+  
+  .col-lg-3 {
+    padding-left: 30px;
+  }
+  .footerheading {
+    font-family: "Noto Sans HK", sans-serif;
+    color: white;
+    font-size: 15px;
+  }
+  
+  .footercontentbox {
+    margin-top: 10px;
+    color: #9c9c9c;
+  }
+  
+  .icons {
+    margin-top: 10px;
+  }
+  
+  #info {
+    padding-left: 50px;
+  }
+  .fab {
+    color: aliceblue;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .fas {
+    color: aliceblue;
+  }
+  
+  .fa-facebook-square:hover {
+    color: #4267b2;
+  }
+  
+  .fa-instagram:hover {
+    color: #e64c5c;
+  }
+  
+  .fa-dribbble-square:hover {
+    color: #ae004f;
+  }
+  
+  .fa-twitter-square:hover {
+    color: #1ab2e8;
+  }
+  
+  .fa-envelope:hover {
+    color: #df0202;
+  }
+  
+  .fa-phone-square:hover {
+    color: #228be6;
+  }
+  .contacts {
+    margin-top: 10px;
+  }
+  
+  #footer-low {
+    padding-left: 200px;
+    padding-top: 30px;
+    color: #9c9c9c;
+  }
+  
+  #id1 {
+    color: #454545;
+  }
+  
+  #id2 {
+    color: #454545;
+  }
+  
+  #id1:hover {
+    color: red;
+  }
+  
+  #id2:hover {
+    color: brown;
+  }
+  
+  .footercontent:hover {
+    color: white;
+  }
+  
